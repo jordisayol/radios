@@ -1,0 +1,40 @@
+#EXTM3U player-buffer="15"
+
+#EXTINF:-1 tvg-logo="https://diegofernandez.design/wp-content/uploads/2013/07/rtva_1280px.jpg" group-title="RTV Andorra",Andorra TV
+https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://diegofernandez.design/wp-content/uploads/2013/07/rtva_1280px.jpg" group-title="RTV Andorra",Ràdio Andorra
+https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-f-c0-7/restreamer/outgest/578e48f3-c654-4638-948a-be990c90807b/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://diegofernandez.design/wp-content/uploads/2013/07/rtva_1280px.jpg" group-title="RTV Andorra",Andorra Música
+https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-g-c0-3/restreamer/outgest/0aeb53b3-9ec2-4f62-8b4d-e0d27ec8ec6e/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://ib3img.s3.amazonaws.com/files_flutter/963-diseosinttulo20240229t165626227.webp" group-title="IB3",IB3 Ràdio (mp3)
+https://icecast.ib3radio.com/ib3radio.mp3
+##EXTINF:-1 tvg-logo="https://ib3img.s3.amazonaws.com/files_flutter/963-diseosinttulo20240229t165626227.webp" group-title="IB3",IB3 Ràdio 2 (mp3)
+#https://icecast.ib3radio.com/ib3radio_dos
+##EXTINF:-1 tvg-logo="https://ib3img.s3.amazonaws.com/files_flutter/963-diseosinttulo20240229t165626227.webp" group-title="IB3",IB3 Ràdio Menorca (mp3)
+#https://icecast.ib3radio.com/ib3radio_menorca
+##EXTINF:-1 tvg-logo="https://ib3img.s3.amazonaws.com/files_flutter/963-diseosinttulo20240229t165626227.webp" group-title="IB3",IB3 Ràdio Pitiüses (mp3)
+#https://icecast.ib3radio.com/ib3radio_pitiuses
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg" group-title="À Punt",À Punt TV
+https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg" group-title="À Punt",À Punt Ràdio
+https://fastly.live.brightcove.com/1854461588069069227/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NTQ0NjE1ODgwNjkwNjkyMjcifQ.RKqA-z0MRntFVph2G3tE9YzBp7vfdMXcynOKpyqvZTg/playlist-hls-dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/beteve_logo_despues.jpg" group-title="betevé",betevé televisió
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/beteve_logo_despues.jpg" group-title="betevé",betevé ràdio
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/0_qzjz9cja/protocol/https/format/applehttp/flavorIds/0_zwokc3m8/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0Lw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLiq-BDzrYoh6uXOSN2wOBqgip5iXw_DhTog&s" group-title="vàries",Ràdio 4
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r4_main.m3u8
+##EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTAZ-O_kqB9VAbEUYn9SgDhuACA2XJ0tz78g&s" group-title="vàries",Ràdio Estel (mp3)
+#https://srv6021.dns-lcinternet.com:10244/stream
+##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_quadrat_JPEG.jpg" group-title="vàries",Ràdio Arrels (mp3)
+#http://stream.radios-arra.fr:8000/radioarrels
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3V_uf8OmI_uS1faAcl4RcpRva1t9cocA7xw&s" group-title="Emissores no Catalanes",Radio 3
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
+#EXTINF:-1 tvg-logo="https://www.qmusica.com/sites/default/files/Logo%20Qfm%20LowRes.png" group-title="Emissores no Catalanes",Q FM (mp3)
+https://securestreams4.autopo.st:1889/stream?1773843503318.mp3
+

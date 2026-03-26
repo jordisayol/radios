@@ -1,0 +1,35 @@
+#EXTM3U player-buffer="15"
+
+#EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/5/8/1483009076885.jpg" group-title="TV3",TV3
+https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/33_%28CCMA%29.svg" group-title="TV3",Canal 33
+https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_3-24_de_TVC.jpg" group-title="TV3",3/24
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Esport3.svg" group-title="TV3",Esports 3
+https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvYN7fRxzjCVa2JLRI_uAEzWQfijyrJQ7qSQ&s" group-title="TV3",Super3
+https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VgRCu2U.png" group-title="TV3",Bon Dia TV
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YQvLPT1.png" group-title="Exclusiu Digital",Digital 1
+https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YQvLPT1.png" group-title="Exclusiu Digital",Digital 2
+https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YQvLPT1.png" group-title="Exclusiu Digital",Digital 3
+https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YQvLPT1.png" group-title="Exclusiu Digital",Digital 4
+https://directes-tv-cat.3catdirectes.cat/live-content/oca4-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/1/1/1764766110211_640.jpg" group-title="Canals Temàtics",Vinagre(ta)
+https://fast-tailor.3catdirectes.cat/v1/channel/vinagreta/hls.m3u8
+#EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/0/2/1728483392720_640.jpg" group-title="Canals Temàtics",Joc de cartes
+https://fast-tailor.3catdirectes.cat/v1/channel/joc-de-cartes/hls.m3u8
+#EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/4/3/1762940423934_640.jpg" group-title="Canals Temàtics",El búnquer
+https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
+#EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/7/5/1762958714357_640.jpg" group-title="Canals Temàtics",Plats bruts
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+#EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/2/8/1739981511382_640.jpg" group-title="Canals Temàtics",Càmeres del temps
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+
