@@ -8,7 +8,7 @@ https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Esport3.svg" group-title="TV3",Esports 3
 https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdfE9sjheDcvvI9h_8LCC3tSxvOXUrKVdPnw&s" group-title="TV3",Super3
+#EXTINF:-1 tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/2d1eb61d-3620-40ba-b4b4-83d22d20557a_16-9-aspect-ratio_default_0.jpg" group-title="TV3",Super3
 https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VgRCu2U.png" group-title="TV3",Bon Dia TV
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
