@@ -1,0 +1,9 @@
+#EXTM3U player-buffer="15"
+
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/f/1/0/f103fb09b5f49ba2ade7d81880c02469_fgraphic.png" group-title="RAC1",RAC1 (mp3)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/f/1/0/f103fb09b5f49ba2ade7d81880c02469_fgraphic.png" group-title="RAC1",RAC+1 (mp3)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3
+#EXTINF:-1 tvg-logo="https://www.rac105.cat/assets/uploads/2017/11/facebook.png" group-title="RAC1",RAC105 (mp3)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3
+

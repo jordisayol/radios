@@ -1,35 +1,39 @@
 <!DOCTYPE html>
 <html lang="ca">
-<head>
-	<!-- CRUCIAL PARA MÓVIL -->
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Emissores Països Catalans</title>
-	<link rel="icon" href="web_radio.png" type="image/png">
-	<meta charset="utf-8" />
-	<style>
-		body { font-family: Arial; padding: 20px; }
-		.contenidor { display: flex; flex-wrap: wrap; }
-		.caixa { flex: 1 1 100%; padding: 20px; box-sizing: border-box; font-size:6vw; text-align: center;}
 
-		/* Escritorio: a partir de 768px */
-		@media (min-width: 768px) {
-			.caixa { flex: 1 1 50%; font-size:5vw; text-align: center;} /* Dos columnas */
-		}
-		p {
-			font-size:6vw;
-			text-align: center;
-		}
-	</style>
-</head>
-<body>
-	<p>
-	<b>Emissores Països Catalans</b>
-	</p>
-	<div class="contenidor">
-		<div class="caixa" style="background-color:lightgreen;"><a href="radios_cat.m3u8"><b>CatRàdio / RAC1</b></a></div>
-		<div class="caixa" style="background-color:lightcoral;"><a href="tv3.m3u8"><b>TV3</b></a></div>
-		<div class="caixa" style="background-color:lightblue;"><a href="radios_varies.m3u8"><b>Països Catalans / Altres</b></a></div>
-	</div>
-</body>
+	<head>
+		<!-- CRUCIAL PARA MÓVIL -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Emissores Països Catalans</title>
+		<link rel="icon" href="web_radio.png" type="image/png">
+		<meta charset="utf-8" />
+		<style>
+			body { font-family: Arial; padding: 20px; }
+			.contenidor { display: flex; flex-wrap: wrap; }
+			.caixa { flex: 1 1 100%; padding: 20px; box-sizing: border-box; font-size:6vw; text-align: center;}
+
+			/* Escritorio: a partir de 768px */
+			@media (min-width: 768px) {
+				.caixa { flex: 1 1 50%; font-size:5vw; text-align: center;} /* Dos columnas */
+			}
+			p {
+				font-size:6vw;
+				text-align: center;
+			}
+		</style>
+	</head>
+
+	<body>
+		<p>
+		<b>Emissores Països Catalans</b>
+		</p>
+		<div class="contenidor">
+			<div class="caixa" style="background-color:lightgreen;"><a href="catradio.m3u8"><b>Catalunya Ràdio</b></a></div>
+			<div class="caixa" style="background-color:rgb(247, 219, 145);"><a href="rac1.m3u8"><b>RAC1</b></a></div>
+			<div class="caixa" style="background-color:lightcoral;"><a href="tv3.m3u8"><b>TV3</b></a></div>
+			<div class="caixa" style="background-color:lightblue;"><a href="radios_varies.m3u8"><b>Països Catalans / Altres</b></a></div>
+		</div>
+	</body>
+
 </html>
 
