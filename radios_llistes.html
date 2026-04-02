@@ -11,14 +11,19 @@
 			body { font-family: Arial; padding: 20px; }
 			.contenidor { display: flex; flex-wrap: wrap; }
 			.caixa { flex: 1 1 100%; padding: 20px; box-sizing: border-box; font-size:7vw; text-align: center;}
+			p {
+				font-size:7vw;
+				text-align: center;
+			}
+
 
 			/* Escritorio: a partir de 768px */
 			@media (min-width: 768px) {
 				.caixa { flex: 1 1 50%; font-size:5vw; text-align: center;} /* Dos columnas */
-			}
-			p {
-				font-size:6vw;
-				text-align: center;
+				p {
+					font-size:5vw;
+					text-align: center;
+				}
 			}
 		</style>
 	</head>
