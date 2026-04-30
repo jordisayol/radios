@@ -1,7 +1,7 @@
 #EXTM3U player-buffer="15"
 
 #EXTINF:-1 tvg-logo="https://diegofernandez.design/wp-content/uploads/2013/07/rtva_1280px.jpg" group-title="RTV Andorra",Andorra TV
-https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8
+https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://diegofernandez.design/wp-content/uploads/2013/07/rtva_1280px.jpg" group-title="RTV Andorra",Ràdio Andorra
 https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-f-c0-7/restreamer/outgest/578e48f3-c654-4638-948a-be990c90807b/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://diegofernandez.design/wp-content/uploads/2013/07/rtva_1280px.jpg" group-title="RTV Andorra",Andorra Música
