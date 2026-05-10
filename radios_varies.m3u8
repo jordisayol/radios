@@ -9,6 +9,8 @@ https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-g-c0-3/restreamer/out
 
 #EXTINF:-1 tvg-logo="https://ib3img.s3.amazonaws.com/files_flutter/963-diseosinttulo20240229t165626227.webp" group-title="IB3",IB3 Ràdio (mp3)
 https://icecast.ib3radio.com/ib3radio.mp3
+#EXTINF:-1 tvg-logo="https://ib3img.s3.amazonaws.com/files_flutter/963-diseosinttulo20240229t165626227.webp" group-title="IB3",IB3 Música (mp3)
+https://icecast.ib3radio.com/ib3musica.mp3
 ##EXTINF:-1 tvg-logo="https://ib3img.s3.amazonaws.com/files_flutter/963-diseosinttulo20240229t165626227.webp" group-title="IB3",IB3 Ràdio 2 (mp3)
 #https://icecast.ib3radio.com/ib3radio_dos
 ##EXTINF:-1 tvg-logo="https://ib3img.s3.amazonaws.com/files_flutter/963-diseosinttulo20240229t165626227.webp" group-title="IB3",IB3 Ràdio Menorca (mp3)
