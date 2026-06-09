@@ -22,6 +22,10 @@ https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YQvLPT1.png" group-title="Exclusiu Digital",Digital 4
 https://directes-tv-cat.3catdirectes.cat/live-content/oca4-hls/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/4/0/1780299033904_640.jpg" group-title="Canals Temàtics",Verdi Clàssics
+https://directes-tv-es.3catdirectes.cat/live-content/tem1-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/7/4/1777251341347_640.jpg" group-title="Canals Temàtics",Anime
+https://directes-tv-es.3catdirectes.cat/live-content/tem2-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/1/1/1764766110211_640.jpg" group-title="Canals Temàtics",Vinagre(ta)
 https://fast-tailor.3catdirectes.cat/v1/channel/vinagreta/hls.m3u8
 #EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/0/2/1728483392720_640.jpg" group-title="Canals Temàtics",Joc de cartes
