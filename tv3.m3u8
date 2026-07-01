@@ -22,16 +22,16 @@ https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YQvLPT1.png" group-title="Exclusiu Digital",Digital 4
 https://directes-tv-cat.3catdirectes.cat/live-content/oca4-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/4/0/1780299033904_640.jpg" group-title="Canals Temàtics",Verdi Clàssics
-https://directes-tv-es.3catdirectes.cat/live-content/tem1-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/7/4/1777251341347_640.jpg" group-title="Canals Temàtics",Anime
+#EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/8/5/1782801805558_640.jpg" group-title="Canals Temàtics",Anime
 https://directes-tv-es.3catdirectes.cat/live-content/tem2-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/3/3/1782891827233_640.jpg" group-title="Canals Temàtics",Verdi Clàssics
+https://directes-tv-es.3catdirectes.cat/live-content/tem1-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/1/8/1781167470381_640.jpg" group-title="Canals Temàtics",Doraemon
+https://fast-tailor.3catdirectes.cat/v1/channel/doraemon/hls.m3u8
 #EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/1/1/1764766110211_640.jpg" group-title="Canals Temàtics",Vinagre(ta)
 https://fast-tailor.3catdirectes.cat/v1/channel/vinagreta/hls.m3u8
 #EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/0/2/1728483392720_640.jpg" group-title="Canals Temàtics",Joc de cartes
 https://fast-tailor.3catdirectes.cat/v1/channel/joc-de-cartes/hls.m3u8
-#EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/4/3/1762940423934_640.jpg" group-title="Canals Temàtics",El búnquer
-https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
 #EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/7/5/1762958714357_640.jpg" group-title="Canals Temàtics",Plats bruts
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 tvg-logo="https://img.3cat.cat/multimedia/jpg/2/8/1739981511382_640.jpg" group-title="Canals Temàtics",Càmeres del temps
