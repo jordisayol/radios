@@ -18,14 +18,14 @@ https://icecast.ib3radio.com/ib3musica.mp3
 ##EXTINF:-1 tvg-logo="https://ib3img.s3.amazonaws.com/files_flutter/963-diseosinttulo20240229t165626227.webp" group-title="IB3",IB3 Ràdio Pitiüses (mp3)
 #https://icecast.ib3radio.com/ib3radio_pitiuses
 
-#EXTINF:-1 tvg-logo="https://img.beteve.cat/wp-content/uploads/2020/11/logo-beteve-2017-768x432.png" group-title="À Punt",À Punt TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg" group-title="À Punt",À Punt TV
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
-#EXTINF:-1 tvg-logo="https://img.beteve.cat/wp-content/uploads/2020/11/logo-beteve-2017-768x432.png" group-title="À Punt",À Punt Ràdio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg" group-title="À Punt",À Punt Ràdio
 https://fastly.live.brightcove.com/1854461588069069227/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NTQ0NjE1ODgwNjkwNjkyMjcifQ.RKqA-z0MRntFVph2G3tE9YzBp7vfdMXcynOKpyqvZTg/playlist-hls-dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/beteve_logo_despues.jpg" group-title="betevé",betevé televisió
+#EXTINF:-1 tvg-logo="https://img.beteve.cat/wp-content/uploads/2020/11/logo-beteve-2017-768x432.png" group-title="betevé",betevé televisió
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/beteve_logo_despues.jpg" group-title="betevé",betevé ràdio
+#EXTINF:-1 tvg-logo="https://img.beteve.cat/wp-content/uploads/2020/11/logo-beteve-2017-768x432.png" group-title="betevé",betevé ràdio
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/0_qzjz9cja/protocol/https/format/applehttp/flavorIds/0_zwokc3m8/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0Lw
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLiq-BDzrYoh6uXOSN2wOBqgip5iXw_DhTog&s" group-title="vàries",Ràdio 4
